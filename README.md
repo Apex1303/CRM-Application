@@ -60,3 +60,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+## 👥 Contributors
+
+| Registration Number | Name |
+
+| 24BCE10504 | Nihaar Gupta |
+| 24BCE11070 | Arpit Singh |
+| 23BCE11107 | Prathistha Beniwal |
+| 23BCE10465 | Vanshika Khatri |
+| 23BCE11069 | Advait Sahu |
+
