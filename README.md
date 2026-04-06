@@ -31,12 +31,12 @@ A lightweight Customer Relationship Management (CRM) application built with Java
 
 2. **Compile the source files:**
 ```bash
-   javac -d out src/*.java
+   javac -d out src/main/java/com/crm/model/Customer.java src/main/java/com/crm/ui/CRMFrame.java src/main/java/com/crm/CRMApp.java
 ```
 
 3. **Run the application:**
 ```bash
-   java -cp out Main
+   java -cp out com.crm.CRMApp
 ```
 
 ## 📁 Project Structure
@@ -50,7 +50,8 @@ simple-crm/
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your application here)*
+<img width="854" height="612" alt="image" src="https://github.com/user-attachments/assets/d12b300f-3f07-401a-9296-c95029585cd7" />
+
 
 ## 🤝 Contributing
 
